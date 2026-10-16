@@ -1,0 +1,6 @@
+{
+  "name": "ZAD | زاد — Islamic App",
+  "description": "ZAD | زاد — Premium Islamic application with offline Quran, accurate prayer calculations, Qibla compass, verified Azkar, and Bara'em ZAD children's learning. Web-first, Flutter-ready architecture.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
